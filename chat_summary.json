@@ -24,5 +24,11 @@
         "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 173 (char 344)\", \"time_taken\": \"0:00:01.232045\"}",
         "timestamp": "29082024070822",
         "message_id": "guest29082024070818"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello'\", \"checked\": true}, {\"feature\": \"Implement a greeting message that appears when the button is clicked\", \"checked\": false}, {\"feature\": \"Add animation to the button when hovered over\", \"checked\": false}, {\"feature\": \"Change button color based on user preferences\", \"checked\": false}, {\"feature\": \"Include sound effects when the button is pressed\", \"checked\": false}], \"input_token_count\": 222, \"output_token_count\": 102, \"time_taken\": \"0:00:01.973993\"}",
+        "timestamp": "29082024070822",
+        "message_id": "guest29082024070818"
     }
 ]
