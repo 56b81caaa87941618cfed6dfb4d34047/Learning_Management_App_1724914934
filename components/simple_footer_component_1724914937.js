@@ -20,6 +20,11 @@ INSTRUCTION: Both of these lines are center aligned.
                 <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                     © 2023 EduQuest. Empowering learners, one quest at a time. All rights reserved.
                 </div>
+                <div class="flex-1 flex justify-center mt-4">
+                    <button @click="sayHello" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out">
+                        Hello
+                    </button>
+                </div>
             </div>
         </div>
     </footer>
@@ -34,5 +39,12 @@ export default {
             tab: null,
         };
     },
+    methods: {
+        // Hello button method
+        sayHello() {
+            alert('Hello!');
+        }
+        // End of Hello button method
+    }
 }
 </script>
