@@ -18,5 +18,11 @@
         "content": "Sure, I\u2019ll add a button that says hello.",
         "timestamp": "29082024070820",
         "message_id": "guest29082024070818"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 173 (char 344)\", \"time_taken\": \"0:00:01.232045\"}",
+        "timestamp": "29082024070822",
+        "message_id": "guest29082024070818"
     }
 ]
