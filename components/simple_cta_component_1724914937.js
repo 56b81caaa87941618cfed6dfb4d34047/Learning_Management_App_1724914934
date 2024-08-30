@@ -6,7 +6,7 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                         Unlock Your Cosmic Potential's</h2></div> <div id="cta-subtitle-container" class="flex mb-8"><p id="cta-subtitle" class="flex-1 font-light text-pink-100 md:text-lg" style="">
                         Embark on a surreal journey of knowledge. Our app transforms learning into a vibrant, otherworldly experience.
                     </p></div> <div id="cta-button-container" class="flex"><a id="cta-button" href="#" class="flex-1 text-purple-800 bg-pink-300 hover:bg-pink-400 focus:ring-4 focus:ring-pink-200 font-medium rounded-full text-lg px-8 py-3 transition duration-300 ease-in-out transform hover:scale-105"><i class="bx bx-rocket mr-2"></i>
-                        Launch Your Learning Odyssey
+                        Launch Your Learning Odyssey's
                     </a></div></div></div></section>
 </template>
 
